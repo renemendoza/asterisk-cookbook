@@ -1,0 +1,8 @@
+Chef cookbook for asterisk
+
+goals & limitations
+
+* sql database backed (IAX2, SIP Peers, CDRs, Queues, Extensions, Voicemail Accounts, Voicemail Messages)
+* virtual server oriented (no support for telephony hardware)
+* sensible iptables firewall rules and support for fail2ban
+
